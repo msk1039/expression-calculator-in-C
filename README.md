@@ -40,8 +40,7 @@ The program evaluates the following expressions:
 - (3*i - 2*j) % (2*d - c)
 - 2*(i/5) + (4*(j - 3)) % (i + j - 2)
 - (i - 3*j) % (c + 2*d) / (x - y)
-- neg(gt(j, 'c'))
-- eq(2*x + y, 0)
+- ( 2*x + y == 0) 
 
 ## Customization
 
